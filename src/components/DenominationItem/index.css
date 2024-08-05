@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Robot';
+}
+.rupee-list {
+  width: 47%;
+  margin: 5px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  min-width: 100%;
+  height: 40px;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  background-color: #382f5a;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
